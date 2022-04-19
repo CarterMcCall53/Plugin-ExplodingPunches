@@ -1,0 +1,4 @@
+name: ExplodingPunches-Plugin
+version: '${version}'
+main: org.tartarsauce.explodingpunchesplugin.ExplodingPunchesPlugin
+api-version: 1.18
